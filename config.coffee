@@ -1,5 +1,6 @@
 exports.config =
   # See http://brunch.readthedocs.org/en/latest/config.html for documentation.
+  sourceMaps: true
   files:
     javascripts:
       joinTo:
@@ -24,7 +25,3 @@ exports.config =
 
     templates:
       joinTo: 'javascripts/app.js'
-  plugins:
-    coffee-script:
-      options:
-        sourceMap: true
