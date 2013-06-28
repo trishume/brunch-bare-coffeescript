@@ -1,10 +1,17 @@
-# brunch-bare-livescript
-Barebones skeleton for [brunch](http://brunch.io) using [LiveScript](http://gkz.github.com/LiveScript/).
+# brunch-bare-coffeescript
+Barebones skeleton for [brunch](http://brunch.io) using coffeescript.
+
+For when you don't want Backbone.js and that other stuff.
+
+Contains a basic skeleton for a coffeescript app using Brunch.
+By default source maps are generated with the js.
 
 ## License
 The MIT license.
 
-Copyright (c) 2012 George Zahariev 
+Copyright (c) 2013 Tristan Hume (http://thume.ca/)
+
+Copyright (c) 2012 George Zahariev
 
 Copyright (c) 2012 Paul Miller (http://paulmillr.com/)
 

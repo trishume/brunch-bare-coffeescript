@@ -17,17 +17,16 @@
   },
   "dependencies": {
     "javascript-brunch": ">= 1.0 < 1.5",
-    "LiveScript-brunch": ">= 1.0 < 1.5",
+    "coffee-script-brunch": ">= 1.0 < 1.7",
 
     "css-brunch": ">= 1.0 < 1.5",
     "less-brunch": ">= 1.0 < 1.5",
 
     "uglify-js-brunch": ">= 1.0 < 1.5",
-    "clean-css-brunch": ">= 1.0 < 1.5"
+    "clean-css-brunch": ">= 1.0 < 1.5",
+
+    "auto-reload-brunch": ">= 1.0 < 1.7"
   },
   "devDependencies": {
-    "chai": "1.2.0",
-    "sinon": "1.4.2",
-    "sinon-chai": "2.1.2"
   }
 }

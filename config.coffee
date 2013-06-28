@@ -24,3 +24,7 @@ exports.config =
 
     templates:
       joinTo: 'javascripts/app.js'
+  plugins:
+    coffee-script:
+      options:
+        sourceMap: true
